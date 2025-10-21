@@ -14,7 +14,7 @@
 
 以下は、`Y:\music\Bohemianvoodoo` ディレクトリに対してツールを実行した際の出力例です。
 
-![コマンド実行例](https://github.com/qack-dev/directoryTreeGenerator/execution_example.png)
+![コマンド実行例](https://raw.githubusercontent.com/qack-dev/directoryTreeGenerator/refs/heads/main/execution_example.png)
 
 ## 使い方
 
